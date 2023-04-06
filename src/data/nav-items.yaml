@@ -1,84 +1,42 @@
-- title: Getting started
+- title: Program Overview
   pages:
-    - path: /getting-started
-- title: Demo
+    - path: /program-overview
+- title: Participant Feedback
   pages:
-    - path: /demo
-- title: Gallery
+    - path: /participant-feedback
+- title: In Person Program
   pages:
-    - path: /gallery
-- title: Contributions
+    - title: Overview
+      path: /in-person-program/overview
+    - title: Handouts
+      path: /in-person-program/handouts
+- title: Virtual Sessions - Africa
   pages:
-    - path: /contributions
-- title: Guides
+    - title: 2023 - Preparation and Presentations
+      path: /virtual-sessions-africa/2023-preparation-and-presentations
+    - title: 2023 - Replays
+      path: /virtual-sessions-africa/2023-replays
+    - title: 2023 - Graduation Certificate and Resources
+      path: /virtual-sessions-africa/2023-graduation-certificate-and-resources
+    - title: Last Year - Preparation and Presentations
+      path: /virtual-sessions-africa/last-year-preparation-and-presentations
+    - title: Last Year - Replays
+      path: /virtual-sessions-africa/last-year-replays
+    - title: Last Year - Graduation Certificate and Resources
+      path: /virtual-sessions-africa/last-year-graduation-certificate-and-resources
+- title: Virtual Sessions - India
   pages:
-    - title: Authoring MDX
-      path: /guides/MDX
-    - title: Configuration
-      path: /guides/configuration
-    - title: Gatsby Sketch kit
-      path: /guides/sketch-kit
-    - title: Hosting
-      path: /guides/hosting
-    - title: Navigation
-      path: /guides/navigation/sidebar
-    - title: npm scripts
-      path: /guides/npm-scripts
-    - title: Shadowing
-      path: /guides/shadowing
-    - title: Styling
-      path: /guides/styling
-    - title: v2.0 Migration
-      path: /guides/v2-migration
-- title: Components
+    - title: 2022 - Preparation and Presentations
+      path: /virtual-sessions-india/2022-preparation-and-presentations
+    - title: 2022 - Replays
+      path: /virtual-sessions-india/2022-replays
+    - title: 2022 - Graduation Certificate and Resources
+      path: /virtual-sessions-india/2022-graduation-certificate-and-resources
+- title: Virtual Sessions - United States
   pages:
-    - title: Accordion
-      path: /components/Accordion
-    - title: AnchorLinks
-      path: /components/AnchorLinks
-    - title: ArtDirection
-      path: /components/ArtDirection
-    - title: ArticleCard
-      path: /components/ArticleCard
-    - title: Aside
-      path: /components/Aside
-    - title: Caption
-      path: /components/Caption
-    - title: Code blocks
-      path: /components/code-blocks
-    - title: DoDontExample
-      path: /components/DoDontExample
-    - title: DoDontRow
-      path: /components/DoDontRow
-    - title: FeatureCard
-      path: /components/FeatureCard
-    - title: FeedbackDialog
-      path: /components/FeedbackDialog
-    - title: GifPlayer
-      path: /components/GifPlayer
-    - title: Grid
-      path: /components/Grid
-    - title: ImageCard
-      path: /components/ImageCard
-    - title: ImageGallery
-      path: /components/ImageGallery
-    - title: InlineNotification
-      path: /components/InlineNotification
-    - title: Markdown
-      path: /components/markdown
-    - title: MediumPosts
-      path: /components/MediumPosts
-    - title: MiniCard
-      path: /components/MiniCard
-    - title: PageDescription
-      path: /components/PageDescription
-    - title: ResourceCard
-      path: /components/ResourceCard
-    - title: SquareCard
-      path: /components/SquareCard
-    - title: Tabs
-      path: /components/Tabs
-    - title: Title
-      path: /components/Title
-    - title: Video
-      path: /components/Video
+    - title: 2022 - Preparation and Presentations
+      path: /virtual-sessions-united-states/2022-preparation-and-presentations
+    - title: 2022 - Replays
+      path: /virtual-sessions-united-states/2022-replays
+    - title: 2022 - Graduation Certificate and Resources
+      path: /virtual-sessions-united-states/2022-graduation-certificate-and-resources
