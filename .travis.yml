@@ -10,7 +10,7 @@ deploy:
   github_token: $GH_TOKEN
   keep_history: true
   local_dir: public
-  target_branch: pages
+  target_branch: master
   github_url: github.ibm.com
   on:
     branch: develop
