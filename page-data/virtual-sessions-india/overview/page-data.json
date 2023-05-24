@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-virtual-sessions-india-overview-mdx",
+    "path": "/virtual-sessions-india/overview/",
+    "result": {"pageContext":{"frontmatter":{"description":"Virtual Sessions India / Overview","title":"Virtual Sessions India / Overview"},"relativePagePath":"/virtual-sessions-india/overview.mdx","titleType":"page","MdxNode":{"id":"a1bef7ec-4f32-552e-a679-09f58c53bf13","children":[],"parent":"a5de6b1e-42d4-5cd5-8e08-8c01a9ad80ef","internal":{"content":"stub","type":"Mdx","contentDigest":"1c7c70de9c6128127d8c2d93c829d695","owner":"gatsby-plugin-mdx","counter":209},"frontmatter":{"description":"Virtual Sessions India / Overview","title":"Virtual Sessions India / Overview"},"exports":{},"rawBody":"stub","fileAbsolutePath":"/home/travis/build/Connor/family-science/src/pages/virtual-sessions-india/overview.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
