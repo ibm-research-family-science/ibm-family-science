@@ -23,20 +23,20 @@ const Content = ({ buildTime }) => (
   </>
 );
 
-const links = {
-  firstCol: [
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-  ],
-  secondCol: [
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-    { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
-  ],
-};
+// const links = {
+//   firstCol: [
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//   ],
+//   secondCol: [
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//     { href: 'https://ibm.com/design', linkText: 'Shadowed link' },
+//   ],
+// };
 
-const CustomFooter = () => <Footer links={links} Content={Content} />;
+const CustomFooter = () => <Footer Content={Content} />;
 
 export default CustomFooter;
