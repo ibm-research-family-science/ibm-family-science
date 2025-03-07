@@ -1,18 +1,22 @@
 module.exports = {
+  pathPrefix: `/ibm-family-science`,
   siteMetadata: {
-    title: 'Gatsby Theme Carbon',
-    description: 'A Gatsby theme for the carbon design system',
-    keywords: 'gatsby,theme,carbon',
+    title: 'IBM Family Science',
+    description: 'IBM Family Science is a hands-on science program offered by IBM Research to inspire 4th and 5th grade students to learn about science.',
+    keywords: 'IBM,family,science',
   },
-  pathPrefix: `/gtc`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Carbon Design Gatsby Theme',
+        theme: {
+          homepage: "light",
+          interior: "g10",
+        },
+        name: 'IBM Family Science',
         icon: 'src/images/favicon.svg',
-        short_name: 'Gatsby Theme Carbon',
-        start_url: '/',
+        short_name: 'Family Science',
+        start_url: '/program-overview',
         background_color: '#ffffff',
         theme_color: '#161616',
         display: 'browser',
@@ -20,14 +24,7 @@ module.exports = {
     },
     {
       resolve: 'gatsby-theme-carbon',
-      options: {
-        mediumAccount: 'carbondesign',
-        repository: {
-          baseUrl:
-            'https://github.com/carbon-design-system/gatsby-theme-carbon',
-          subDirectory: '/packages/example',
-        },
-      },
+
     },
   ],
 };
