@@ -10,6 +10,8 @@
       path: /us-in-person/overview
     - title: Handouts
       path: /us-in-person/handouts
+    - title: Graduation Note
+      path: /us-in-person/graduation-note
 - title: Africa – Virtual Sessions
   pages:
     - title: Overview
