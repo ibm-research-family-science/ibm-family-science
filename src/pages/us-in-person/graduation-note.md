@@ -29,7 +29,16 @@ brings the best of their hands-on science learning resources to families via the
     -  [NASA Climate Kids](https://climatekids.nasa.gov/menu/make/) or https://climatekids.nasa.gov
     -  [National Geographic Kids](https://kids.nationalgeographic.com/science/article/climate-change)
     -  [American Museum of Natural History Kids](https://www.amnh.org/explore/ology/climate-change)
-5.	If you and your family speak Spanish, you may want to visit this website for Girls in STEM created in Spain, IBM Family Science contributed to this effort – [STEM en Femenino](https://www.stemenfemenino.org/)
+
+5. You learned about Quantum Computing during a pre-class in March, you can learn more with these 2 videos (there are some ads, and you can skip through them):
+ 
+    - A video that explains Quantum to different age groups
+        https://www.youtube.com/watch?v=OWJCfOvochA
+ 
+    - A current video that explains Quantum with a visit to IBM Research
+        https://www.youtube.com/watch?v=e3fz3dqhN44
+
+6.	If you and your family speak Spanish, you may want to visit this website for Girls in STEM created in Spain, IBM Family Science contributed to this effort – [STEM en Femenino](https://www.stemenfemenino.org/)
 
 
 ### Have fun and stay safe!
