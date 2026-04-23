@@ -42,7 +42,7 @@ brings the best of their hands-on science learning resources to families via the
 
 
 ### Have fun and stay safe!
-**Grace Kaplan**, IBM Family Science Coordinator
+**Jim Laredo**, IBM Family Science Coordinator
 
 
 ![graduation-note](./images/graduation-note.jpg)
